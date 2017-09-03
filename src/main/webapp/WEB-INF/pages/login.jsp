@@ -11,8 +11,9 @@
     <title>Login</title>
 </head>
 <body>
-<h1>Login.jsp page_____</h1>
+<h1 style="color: green;">Login.jsp page_____^_^</h1>
 <p>page name: ${pageName}</p>
 <p>user id: ${userId}</p>
+<h1 style="color: mediumvioletred">O(∩_∩)O哈哈~</h1>
 </body>
 </html>
