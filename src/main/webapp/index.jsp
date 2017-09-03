@@ -11,6 +11,6 @@
     <title>web-app index page</title>
 </head>
 <body>
-<h1>This is index.jsp page!</h1>
+<h1>This is yuri index.jsp page!</h1>
 </body>
 </html>

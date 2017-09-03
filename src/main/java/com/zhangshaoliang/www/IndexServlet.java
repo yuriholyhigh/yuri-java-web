@@ -5,6 +5,7 @@ import java.io.PrintWriter;
 
 /**
  * Created by admin on 2017/9/3.
+ * This servlet have been disabled.
  */
 public class IndexServlet extends javax.servlet.http.HttpServlet {
     protected void doPost(javax.servlet.http.HttpServletRequest request, javax.servlet.http.HttpServletResponse response) throws javax.servlet.ServletException, IOException {
